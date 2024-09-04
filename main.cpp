@@ -2,7 +2,7 @@
 
 auto main(int argc, char** argv) -> int 
 {
-    std::cout << "Welcome to C++ world!" << std::endl;
+    std::cout << "Hello, welcome to C++ world!" << std::endl;
 
     return 0;
 }
